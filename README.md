@@ -15,7 +15,10 @@ The Currency Converter App is a simple Android application designed to help user
 
 ## Screenshots
 
-
+<div style="display: flex;">
+    <img src="https://github.com/101rror/Currency_Converter_Apk/assets/122160056/0f8a914c-4dfb-4f1e-873a-a979299f7039" alt="Screenshot 1" width="45%" style="margin-right: 5%;">
+    <img src="https://github.com/101rror/Currency_Converter_Apk/assets/122160056/f85e9f14-9dbc-48cf-84f1-3bbc0ec6b1b3" alt="Screenshot 2" width="45%">
+</div>
 
 ## Getting Started
 
